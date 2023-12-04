@@ -1,3 +1,8 @@
 body{
     background-image: url("../imagenes/background_zelda.jpg");
 }
+
+.parrafo{
+    background-color: bisque;
+    margin: 120px 120px 120px 120px ;
+}
